@@ -20,6 +20,14 @@ Researchers and analysts can use this repository to replicate our study or exten
 
 We welcome contributions to enhance the datasets, improve the analysis scripts, or apply the methodology to different contexts. Please submit pull requests or open issues for discussion.
 
+## Paper Link
+
+The paper can be found at this link
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Paper
+
+The full paper can be found [here](https://arxiv.org/abs/2310.04331).
